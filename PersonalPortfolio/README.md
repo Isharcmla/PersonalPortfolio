@@ -1,10 +1,10 @@
 # 📁 Personal Portfolio — Computer Networks
 
-> **Student:** นายศุภกิตติ์ ฟันเฟือย  
-> **Student ID:** 673380427-8  
+> **Student:** นายพัชรพล กองแก้ว  
+> **Student ID:** 673380415-5 
 > **Course:** Intergalactic Communications (Computer Networks)  
 > **Institution:** Khon Kaen University  
-> **Contact:** Suphakit.f@kkumail.com | [GitHub: ChillChill007x](https://github.com/ChillChill007x)
+> **Contact:** Suphakit.f@kkumail.com | [GitHub: Isharcmla] (https://github.com/Isharcmla)
 
 ---
 
