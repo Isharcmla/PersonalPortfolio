@@ -27,4 +27,4 @@ Essay assignment exploring how computer networks are used in everyday life — f
 ---
 
 📅 **Course:** Intergalactic Communications  
-🎓 **Student ID:** 673380427-8
+🎓 **Student ID:** 673380415-5
