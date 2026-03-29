@@ -110,4 +110,4 @@ Repository reference added to portfolio. Full project files available at GitHub 
 ---
 📅 **Course:** Network Programming / Intergalactic Communications  
 🏫 **Institution:** Khon Kaen University  
-🎓 **Student:** นายศุภกิตติ์ ฟันเฟือย (673380427-8)
+🎓 **Student:** นายพัชรพล กองแก้ว (673380415-5) เป็นเพื่อนร่วมทีม
