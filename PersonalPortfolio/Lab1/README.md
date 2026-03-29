@@ -35,4 +35,4 @@ First lab introducing fundamental LAN configuration — connecting devices, assi
 ---
 
 📅 **Course:** Intergalactic Communications  
-🎓 **Student ID:** 673380427-8
+🎓 **Student ID:** 673380415-5
