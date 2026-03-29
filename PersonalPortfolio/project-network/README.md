@@ -96,5 +96,5 @@ Comprehensive term project covering complete network architecture lifecycle from
 
 ---
 📅 **Course:** Intergalactic Communications  
-🎓 **Student ID:** 673380427-8  
-📧 **Contact:** Suphakit.f@kkumail.com
+🎓 **Student ID:** 673380415-5 
+📧 **Contact:** phatcharaphon.ko@kkumail.com
